@@ -1,0 +1,702 @@
+[
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36344215,
+        "rssi": -122,
+        "snr": -9.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36335848,
+        "rssi": -123,
+        "snr": -16
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36327484,
+        "rssi": -122,
+        "snr": -11.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36319124,
+        "rssi": -122,
+        "snr": -10.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36310760,
+        "rssi": -122,
+        "snr": -8.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36386032,
+        "rssi": -123,
+        "snr": -18.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36377668,
+        "rssi": -123,
+        "snr": -12.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36369302,
+        "rssi": -123,
+        "snr": -18.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36360939,
+        "rssi": -123,
+        "snr": -12.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36352578,
+        "rssi": -123,
+        "snr": -15
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36427851,
+        "rssi": -123,
+        "snr": -14
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NIRMAL",
+        "timestamp": 36419479,
+        "rssi": -123,
+        "snr": -20.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36411121,
+        "rssi": -123,
+        "snr": -17.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36402759,
+        "rssi": -123,
+        "snr": -14
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36394389,
+        "rssi": -123,
+        "snr": -18
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36469668,
+        "rssi": -122,
+        "snr": -12.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36461301,
+        "rssi": -123,
+        "snr": -14
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36452939,
+        "rssi": -123,
+        "snr": -13
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36444570,
+        "rssi": -123,
+        "snr": -12.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36436207,
+        "rssi": -123,
+        "snr": -17
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70592009,
+        "rssi": -122,
+        "snr": -7
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 40166249,
+        "rssi": -123,
+        "snr": -17.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 40157886,
+        "rssi": -123,
+        "snr": -13
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36486387,
+        "rssi": -123,
+        "snr": -11
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 36478030,
+        "rssi": -122,
+        "snr": -10.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70633825,
+        "rssi": -123,
+        "snr": -9.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70625461,
+        "rssi": -123,
+        "snr": -8.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70617102,
+        "rssi": -123,
+        "snr": -9.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70608740,
+        "rssi": -123,
+        "snr": -9
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70600371,
+        "rssi": -122,
+        "snr": -7.25
+    },
+    {
+        "sender": 1,
+        "message": "5010: oeuu | Umidade: /3.00% | Inclinação: NORMAL",
+        "timestamp": 70675645,
+        "rssi": -123,
+        "snr": -10.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70667277,
+        "rssi": -122,
+        "snr": -7.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70658914,
+        "rssi": -123,
+        "snr": -10.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70650559,
+        "rssi": -123,
+        "snr": -14.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70642195,
+        "rssi": -123,
+        "snr": -11
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70717466,
+        "rssi": -123,
+        "snr": -7.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70709097,
+        "rssi": -123,
+        "snr": -8.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70700733,
+        "rssi": -122,
+        "snr": -6.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70692376,
+        "rssi": -122,
+        "snr": -10.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70684005,
+        "rssi": -122,
+        "snr": -10
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70759283,
+        "rssi": -123,
+        "snr": -13.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70750917,
+        "rssi": -123,
+        "snr": -12.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70742553,
+        "rssi": -122,
+        "snr": -9.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70734189,
+        "rssi": -122,
+        "snr": -4.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70725829,
+        "rssi": -121,
+        "snr": -2.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70801101,
+        "rssi": -123,
+        "snr": -13.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70792738,
+        "rssi": -123,
+        "snr": -11
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70784376,
+        "rssi": -122,
+        "snr": -10
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70776006,
+        "rssi": -123,
+        "snr": -12.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70767643,
+        "rssi": -123,
+        "snr": -11.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70826188,
+        "rssi": -122,
+        "snr": -9.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70826188,
+        "rssi": -122,
+        "snr": -9.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70817822,
+        "rssi": -122,
+        "snr": -6.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70817822,
+        "rssi": -122,
+        "snr": -6.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70809463,
+        "rssi": -122,
+        "snr": -7.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70859646,
+        "rssi": -123,
+        "snr": -8.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70842917,
+        "rssi": -122,
+        "snr": -9.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70842917,
+        "rssi": -122,
+        "snr": -9.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70834548,
+        "rssi": -122,
+        "snr": -9.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70834548,
+        "rssi": -122,
+        "snr": -9.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 74.00% | Inclinação: NORMAL",
+        "timestamp": 728669083,
+        "rssi": -122,
+        "snr": -9.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 72858537,
+        "rssi": -122,
+        "snr": -7
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70884729,
+        "rssi": -122,
+        "snr": -9
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70876368,
+        "rssi": -123,
+        "snr": -12
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 73.00% | Inclinação: NORMAL",
+        "timestamp": 70868009,
+        "rssi": -123,
+        "snr": -16.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 85554903,
+        "rssi": -122,
+        "snr": -10
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 85546542,
+        "rssi": -122,
+        "snr": -11.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 85538175,
+        "rssi": -122,
+        "snr": -6.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 81130317,
+        "rssi": -122,
+        "snr": -6.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 81121954,
+        "rssi": -123,
+        "snr": -6.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 88641290,
+        "rssi": -123,
+        "snr": -9.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 86525152,
+        "rssi": -123,
+        "snr": -7.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 86516790,
+        "rssi": -122,
+        "snr": -6.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 85789100,
+        "rssi": -123,
+        "snr": -6
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 75.00% | Inclinação: NORMAL",
+        "timestamp": 85563269,
+        "rssi": -122,
+        "snr": -8
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 89578049,
+        "rssi": -122,
+        "snr": -2.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 89569682,
+        "rssi": -122,
+        "snr": -4.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 88666380,
+        "rssi": -122,
+        "snr": -6.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 88658015,
+        "rssi": -123,
+        "snr": -9.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 88649650,
+        "rssi": -123,
+        "snr": -7
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 93375201,
+        "rssi": -122,
+        "snr": -7.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 93358476,
+        "rssi": -123,
+        "snr": -8.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 93350115,
+        "rssi": -122,
+        "snr": -7.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 93341747,
+        "rssi": -121,
+        "snr": -1.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 93333386,
+        "rssi": -122,
+        "snr": -3.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94069384,
+        "rssi": -123,
+        "snr": -6.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94061020,
+        "rssi": -122,
+        "snr": -3.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94052660,
+        "rssi": -122,
+        "snr": -2.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 93391929,
+        "rssi": -123,
+        "snr": -13.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 93383562,
+        "rssi": -122,
+        "snr": -5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94119566,
+        "rssi": -122,
+        "snr": -10.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94102836,
+        "rssi": -122,
+        "snr": -7.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94094473,
+        "rssi": -122,
+        "snr": -10.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94086115,
+        "rssi": -122,
+        "snr": -5.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94077753,
+        "rssi": -121,
+        "snr": -3.5
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 77.00% | Inclinação: NORMAL",
+        "timestamp": 94295204,
+        "rssi": -122,
+        "snr": -6.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94286838,
+        "rssi": -122,
+        "snr": -4
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94144661,
+        "rssi": -122,
+        "snr": -3.75
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94136298,
+        "rssi": -123,
+        "snr": -14.25
+    },
+    {
+        "sender": 1,
+        "message": "Solo: SECO | Umidade: 76.00% | Inclinação: NORMAL",
+        "timestamp": 94127935,
+        "rssi": -123,
+        "snr": -10.75
+    }
+]
