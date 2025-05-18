@@ -92,8 +92,8 @@ void loop()
   Serial.println("Arduino dormindo por 15 minutos...");
   Serial.flush();
 
-  // Dorme 3 horas (10800s) => 1350 ciclos de 8s
-  for (int i = 0; i < 1350; i++)
+  // Dorme 15 minutos (900s) => 113 ciclos de 8s
+  for (int i = 0; i < 113; i++)
   {
     LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
   }
